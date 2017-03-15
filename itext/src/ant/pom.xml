@@ -81,6 +81,11 @@
 			<artifactId>bctsp-bc.jdk</artifactId>
 			<version>bc.version</version>
 		</dependency>
+        <dependency>
+            <groupId>xalan</groupId>
+            <artifactId>xalan</artifactId>
+            <version>xalan.version</version>
+        </dependency>
 	</dependencies>
 	<build>
 		<plugins>
